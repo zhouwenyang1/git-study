@@ -1,0 +1,7 @@
+package git;
+
+public class Test01 {
+    public static void main(String[] args) {
+        System.out.println("这是第一次git提交！");
+    }
+}
